@@ -1,5 +1,8 @@
 # PyTorch-Verification
 
+[![license](https://img.shields.io/github/license/BAI-Yeqi/PyTorch-Verification.svg)](https://github.com/BAI-Yeqi/PyTorch-Verification/blob/master/LICENSE)
+
+
 This repo implements a set of PyTorch environment checker and cuda-based operators, which helps you verify whether your GPU-based PyTorch is installed properly.
 
 ## Run on local env
